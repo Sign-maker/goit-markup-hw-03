@@ -288,5 +288,8 @@ body {
 .footer-logo-studio-text,
 .footer-text {
   color: var(--light);
+}
+
+.footer-text {
   width: 264px;
 }
